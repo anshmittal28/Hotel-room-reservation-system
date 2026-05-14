@@ -29,6 +29,6 @@ npm run lint
 - `src/hotelUtils.js` – room list, travel time, `findBestRooms`
 - `src/App.css` – layout / colours
 
-- **Live app:** _paste your URL here after deploy_
-- **Repo:** _your GitHub/GitLab link_
-- **Google Doc:** use `google-doc-submission.txt` in this folder as a starting draft, then paste into Docs and set sharing to “Anyone with the link” as per the brief.
+- **Live app:** https://symphonious-sunflower-2a200e.netlify.app/
+- **Repo:** https://github.com/anshmittal28/Hotel-room-reservation-system.git
+- **Google Doc:** https://docs.google.com/document/d/1Nlirqc9_T9yMFsSKQKzanKAUg1PrtJSZY2Dp84o8gi8/edit?tab=t.0
